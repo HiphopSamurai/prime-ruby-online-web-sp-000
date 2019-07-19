@@ -1,6 +1,6 @@
 # Add  code here!
 require 'prime'
 
-def is_prime(int)
+def prime?(int)
   Prime.prime?(int)
 end
